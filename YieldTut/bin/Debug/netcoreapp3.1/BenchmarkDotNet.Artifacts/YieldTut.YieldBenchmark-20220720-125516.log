@@ -1,0 +1,6 @@
+// Validating benchmarks:
+Assembly YieldTut which defines benchmarks is non-optimized
+Benchmark was built without optimization enabled (most probably a DEBUG configuration). Please, build it in RELEASE.
+If you want to debug the benchmarks, please see https://benchmarkdotnet.org/articles/guides/troubleshooting.html#debugging-benchmarks.
+Benchmarked method `ProcessPeople` is static. Benchmarks MUST be instance methods, static methods are not supported.
+Benchmarked method `ProcessPeopleYield` is static. Benchmarks MUST be instance methods, static methods are not supported.

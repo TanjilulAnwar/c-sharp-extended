@@ -1,0 +1,14 @@
+C:\Users\tanjilul\Desktop\New folder (2)\ConsoleApp1\ReferenceTut\bin\Release\netcoreapp3.1\ReferenceTut.exe
+C:\Users\tanjilul\Desktop\New folder (2)\ConsoleApp1\ReferenceTut\bin\Release\netcoreapp3.1\ReferenceTut.deps.json
+C:\Users\tanjilul\Desktop\New folder (2)\ConsoleApp1\ReferenceTut\bin\Release\netcoreapp3.1\ReferenceTut.runtimeconfig.json
+C:\Users\tanjilul\Desktop\New folder (2)\ConsoleApp1\ReferenceTut\bin\Release\netcoreapp3.1\ReferenceTut.runtimeconfig.dev.json
+C:\Users\tanjilul\Desktop\New folder (2)\ConsoleApp1\ReferenceTut\bin\Release\netcoreapp3.1\ReferenceTut.dll
+C:\Users\tanjilul\Desktop\New folder (2)\ConsoleApp1\ReferenceTut\bin\Release\netcoreapp3.1\ReferenceTut.pdb
+C:\Users\tanjilul\Desktop\New folder (2)\ConsoleApp1\ReferenceTut\obj\Release\netcoreapp3.1\ReferenceTut.csproj.AssemblyReference.cache
+C:\Users\tanjilul\Desktop\New folder (2)\ConsoleApp1\ReferenceTut\obj\Release\netcoreapp3.1\ReferenceTut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanjilul\Desktop\New folder (2)\ConsoleApp1\ReferenceTut\obj\Release\netcoreapp3.1\ReferenceTut.AssemblyInfoInputs.cache
+C:\Users\tanjilul\Desktop\New folder (2)\ConsoleApp1\ReferenceTut\obj\Release\netcoreapp3.1\ReferenceTut.AssemblyInfo.cs
+C:\Users\tanjilul\Desktop\New folder (2)\ConsoleApp1\ReferenceTut\obj\Release\netcoreapp3.1\ReferenceTut.csproj.CoreCompileInputs.cache
+C:\Users\tanjilul\Desktop\New folder (2)\ConsoleApp1\ReferenceTut\obj\Release\netcoreapp3.1\ReferenceTut.dll
+C:\Users\tanjilul\Desktop\New folder (2)\ConsoleApp1\ReferenceTut\obj\Release\netcoreapp3.1\ReferenceTut.pdb
+C:\Users\tanjilul\Desktop\New folder (2)\ConsoleApp1\ReferenceTut\obj\Release\netcoreapp3.1\ReferenceTut.genruntimeconfig.cache
