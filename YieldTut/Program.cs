@@ -54,16 +54,6 @@ namespace YieldTut
             }
         }
 
-        public IEnumerable<int> MyProperty
-        {
-            get
-            {
-                yield return 0;
-                yield return 1;
-                yield return 2;
-                yield return 3;
-                yield return 4;
-            }
-        }
+        
     }
 }
